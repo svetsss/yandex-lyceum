@@ -1,0 +1,35 @@
+{
+  "sources": [
+    {
+      "repo": "yl_basics",
+      "folder": "basics",
+      "head": "201df440bfad1d3c18036d071799ab8dbe0e9161",
+      "tree": "1d71db131396317b08cdcd84e2a66d88104d5135"
+    },
+    {
+      "repo": "yl_arkanoid",
+      "folder": "arkanoid",
+      "head": "1e7c11237d30bbd468ba5b1955f812c86d9381b3",
+      "tree": "00cd539956010430c18dcc5e793f7422495109b5"
+    },
+    {
+      "repo": "yl_flask",
+      "folder": "flask",
+      "head": "8b1b222caa3262fdf9627538421ebd874467079c",
+      "tree": "e3f7ca3db5006a23ab35cab3ca71b61117f86cbe"
+    },
+    {
+      "repo": "yl_tg_bot",
+      "folder": "telegram-bot",
+      "head": "e13f00cdef4aa29a075364f526645d59f70e59f3",
+      "tree": "dff9d88d063f0157481d3e0c9cf2acd1224e2fd7"
+    },
+    {
+      "repo": "yl_web",
+      "folder": "web",
+      "head": "fbc76fd1083eabcdd96cbc4f6ed7897a24995ede",
+      "tree": "9d690347d719fb81fed945508550a2757a0811ce"
+    }
+  ],
+  "method": "git subtree without squash; source history and file trees preserved"
+}
